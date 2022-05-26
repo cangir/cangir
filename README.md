@@ -10,6 +10,9 @@ Some of my skills:
 ✅ WordPress Theme Installation  
 ✅ Plugin Customization  
 
+<img src="https://github-readme-stats.vercel.app/api?username=cangir&show_icons=true" alt="cangir" />
+
+
 ## Languages and Tools:
 <img align="left" alt="WordPress" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/wordpress/wordpress-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="PHP" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" style="padding-right:10px;" />
@@ -27,6 +30,3 @@ Some of my skills:
 <img align="left" alt="Photoshop" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="After Effects" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/aftereffects/aftereffects-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Premiere Pro" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/premierepro/premierepro-original.svg" style="padding-right:10px;" />
-<br />
-<br />
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=cangir&show_icons=true" alt="cangir" /></p>
