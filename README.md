@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmetcangir)
 
 
-> Hi. I'm a WordPress Expert with 17 years of experience maintaining and developing WordPress websites for my clients. I offer a premium service to my clients. I'm capable of transforming your idea into a fully secured, SEO-friendly, responsive, and interactive WordPress website. I am responsive, available every weekday during business hours, provide quality products and rapid turnarounds.
+> Hi. I'm a WordPress Expert with 20 years of experience maintaining and developing WordPress websites for my clients. I offer a premium service to my clients. I'm capable of transforming your idea into a fully secured, SEO-friendly, responsive, and interactive WordPress website. I am responsive, available every weekday during business hours, provide quality products and rapid turnarounds.
 
 Some of my skills:  
 ✅ WordPress Site Development  
